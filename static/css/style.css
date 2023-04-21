@@ -431,6 +431,23 @@ select:focus {
     color: #fff;
 }
 
+.add-to-cart-btn {
+    background-color: #ff523b;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+    background-color: #fff;
+    color: #ff523b;
+    border: 1px solid #ff523b;
+}
+
 /* contact */
 body {
     padding: 0;
